@@ -35,7 +35,37 @@ This repository contains both **Manual Testing** and **Automation Testing** for 
 ---
 
 ## 🧱 Folder Structure
-├── POM/ │ ├── Login_Page.java │ ├── SignUP_Page.java │ └── Home_Page.java ├── Scripts/ │ ├── LoginTests.java │ ├── SignUpTests.java │ └── HomeTests.java ├── BaseClass/ │ └── BaseClass.java ├── testng.xml ├── ManualTesting/ │ ├── TestPlan.docx │ ├── TestCases.xlsx │ ├── BugReport.xlsx │ └── SummaryReport.docx
+NoteMaster/
+├── src/
+│   ├── main/
+│   │   ├── java/
+│   │   └── resources/
+│
+│   └── test/
+│       ├── java/
+│       │   ├── BaseClass/
+│       │   │   └── BaseClass.java
+│       │   │
+│       │   ├── POM/
+│       │   │   ├── Login_Page.java
+│       │   │   └── SignUP_Page.java
+│       │   │
+│       │   ├── Scripts/
+│       │   │   ├── login.java
+│       │   │   └── signup.java
+│       │   │
+│       │   └── TestNG_FrameWork_UI/
+│       │       ├── HomePage.java
+│       │       ├── LoginPage.java
+│       │       └── signup_TestNGUsingDataProvider.java
+│       │
+│       └── resources/
+│
+├── pom.xml
+├── testng.xml
+├── target/
+├── test-output/
+
 
 📝 Summary
 This QA project demonstrates an end-to-end testing approach for a modern web application.
