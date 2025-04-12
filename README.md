@@ -65,8 +65,8 @@ Technologies used for automation:
   - Bug Report
   - Automation Scripts
   - Summary Report
-
----
+ 
+  - 
 ## 🧱 Folder Structure
 NoteMaster/
 ├── src/
@@ -100,9 +100,5 @@ NoteMaster/
 ├── test-output/
 
 
-📝 Summary
-This QA project demonstrates an end-to-end testing approach for a modern web application.
-It integrates manual test coverage with automated regression tests using industry-standard tools like Selenium WebDriver, TestNG, and a clean POM structure.
 
-The goal is to ensure application quality through detailed test coverage, efficient automation, and structured documentation.
 
