@@ -66,8 +66,10 @@ Technologies used for automation:
   - Automation Scripts
   - Summary Report
  
-  - 
-## 🧱 Folder Structure
+🧱 Folder Structure
+pgsql
+Copy
+Edit
 NoteMaster/
 ├── src/
 │   ├── main/
@@ -98,5 +100,3 @@ NoteMaster/
 ├── testng.xml
 ├── target/
 ├── test-output/
-
-
