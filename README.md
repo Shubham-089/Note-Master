@@ -65,11 +65,9 @@ Technologies used for automation:
   - Bug Report
   - Automation Scripts
   - Summary Report
- 
-🧱 Folder Structure
-pgsql
-Copy
-Edit
+ ## 📁 Folder Structure
+
+```plaintext
 NoteMaster/
 ├── src/
 │   ├── main/
