@@ -13,7 +13,6 @@ This QA project focuses on delivering high-quality assurance through **manual te
 Technologies used for automation:
 - 🧪 Selenium WebDriver
 - ⚙️ TestNG Framework
-- 📦 Page Object Model (POM)
 - 💻 Java (Maven project)
 
 ---
@@ -36,8 +35,7 @@ Technologies used for automation:
 
 ### 🤖 Automation Testing Includes
 - **Selenium WebDriver + TestNG**
-- **POM (Page Object Model)** structure
--  **TestNG usin Create files & POM Files**
+-  **TestNG usin Create files**
 - Scalable scripts for login, signup, and home features
 
 ---
@@ -76,16 +74,7 @@ NoteMaster/
 │
 │   └── test/
 │       ├── java/
-│       │   ├── BaseClass/
-│       │   │   └── BaseClass.java
-│       │   │
-│       │   ├── POM/
-│       │   │   ├── Login_Page.java
-│       │   │   └── SignUP_Page.java
-│       │   │
-│       │   ├── Scripts/
-│       │   │   ├── login.java
-│       │   │   └── signup.java
+│       │   │ 
 │       │   │
 │       │   └── TestNG_FrameWork_UI/
 │       │       ├── HomePage.java
