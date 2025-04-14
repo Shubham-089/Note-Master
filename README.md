@@ -12,7 +12,7 @@ This project focuses on *manual testing* of key modules within the Note Master W
 
 ---
 
-##  *Scope of Testing*
+##  * 🔍 Scope of Testing*
 The *manual testing* process covers the following key modules:
 
 ###  *1. Dashboard Homepage*
@@ -49,7 +49,7 @@ This project follows a *structured manual testing* approach, including:
 
 ---
 
-##  *Test Documents*
+##  * 📄 Test Documents*
 The following *test Documents* document the manual testing process:
 
 ###  *1.📝 Test Plan*
@@ -83,12 +83,12 @@ Each module has structured test cases, including:
 - *Screenshots*
 
 
-###  *5. 📊 Test Summary Report*
+###  *5.📊 Test Summary Report*
 - *Summary of Test Execution*
 - *Pass/Fail*
 
 
-##  *Agile Methodology in Testing*
+##   * ⚙ Agile Methodology in Testing*
 This testing process follows an *Agile Methodology* to ensure continuous and iterative testing:
 
  *Sprint-based Testing* – Dividing testing activities into multiple sprints.  
