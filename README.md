@@ -17,14 +17,14 @@ The *manual testing* process covers the following key modules:
 
 ###  *1. Dashboard Homepage*
  Verifying navigation, UI elements, and data consistency.  
- Ensuring dashboard statistics update correctly.  
+ Ensuring that dashboard statistics update correctly.  
 
 ###  *2. Plans*
  Checking if different plans are displayed with accurate details.  
  Validating selection and redirection functionalities.  
 
 ###  *3. Create Story*
- Creating story With adding the summary and details uploading files and create the story.  
+ Creating a story With adding the summary and details, uploading files, and create the story.  
 
 ---
 
@@ -49,7 +49,6 @@ This project follows a *structured manual testing* approach, including:
 
 ---
 
-
 ##  *Test Documents*
 The following *test Documents* document the manual testing process:
 
@@ -63,7 +62,6 @@ The following *test Documents* document the manual testing process:
 
 ###  *2. Test Scenario*
 - *Test Scenario ID*
-- *Module*
 - *Test Scenario Description*
   
 ###  *2. Test Cases*
@@ -76,7 +74,7 @@ Each module has structured test cases, including:
 - *Expected & Actual Results*
 - *Status (Pass/Fail)*
 
-###  *3. Bug Report*
+###  *3. 🪲 Bug Report*
 - *Bug ID*
 - *Description*
 - *Steps to Reproduce*
@@ -98,59 +96,13 @@ This testing process follows an *Agile Methodology* to ensure continuous and ite
  *Collaboration with Developers* – Continuous integration with the development team.  
  *Frequent Builds & Releases* – Ensuring testing is performed on updated builds.  
  *Exploratory Testing* – Conducting ad-hoc testing to uncover hidden defects.
+ 
 Technologies used for automation:
 - 🧪 Selenium WebDriver
 - ⚙️ TestNG Framework
 - 💻 Java (Maven project)
 
----
 
-## 🧪 Testing Approach
-
-### ✅ Functional Modules Tested
-- Sign Up
-- Login
-- Forgot Password
-- Home Page UI
-- Notes & To-Do Features
-- User Profile
-
-### 🧾 Manual Testing Includes
-- 📋 Test Plan: Test objective, scope, approach, and deliverables
-- 🧠 Test Scenarios & ✔️ Test Cases
-- 🐛 Bug Reports (with severity and reproducibility)
-- 📊 Summary Report of manual test cycles
-
-### 🤖 Automation Testing Includes
-- **Selenium WebDriver + TestNG**
--  **TestNG usin Create files**
-- Scalable scripts for login, signup, and home features
-
----
-
-## 🪲 Bug Reporting Approach
-
-- Bugs are categorized as: `Critical`, `Major`, `Minor`, or `UI`
-- Tracked using structured Excel sheets with:
-  - Steps to Reproduce
-  - Expected vs Actual Result
-  - Severity/Priority
-  - Status and Comments
-
----
-
-## 🧾 Test Plan Overview
-
-- **Project Name**: Notes Maker
-- **Tested By**: Shubham Yetonde
-- **Testing Types**: Functional, UI, Regression
-- **Tools Used**: Selenium, TestNG, Excel, Word
-- **Browsers Tested**: Chrome
-- **Test Deliverables**:
-  - Test Plan, Test Cases, Test Scenarios
-  - Bug Report
-  - Automation Scripts
-  - Summary Report
  ## 📁 Folder Structure
 
 ```plaintext
