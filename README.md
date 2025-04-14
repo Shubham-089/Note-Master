@@ -60,11 +60,11 @@ The following *test Documents* document the manual testing process:
 - *Test Deliverables:* 
 - *Risks & Mitigation:* 
 
-###  *2. Test Scenario*
+###  *2. 📋 Test Scenario*
 - *Test Scenario ID*
 - *Test Scenario Description*
   
-###  *2. Test Cases*
+###  *2. 🧪 Test Cases*
 Each module has structured test cases, including:
 - *Test Case ID*
 - *Test Case Description*
