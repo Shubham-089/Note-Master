@@ -28,7 +28,7 @@ The *manual testing* process covers the following key modules:
 
 ---
 
-##  *Testing Approach*
+##  * 🧪 Testing Approach*
 This project follows a *structured manual testing* approach, including:
 
 ###  *1. Functional Testing*
