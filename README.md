@@ -52,7 +52,7 @@ This project follows a *structured manual testing* approach, including:
 ##  *Test Documents*
 The following *test Documents* document the manual testing process:
 
-###  *1. Test Plan*
+###  *1.📝 Test Plan*
 - *Objectives:* 
 - *Scope:* 
 - *Testing Approach:* 
@@ -83,7 +83,7 @@ Each module has structured test cases, including:
 - *Screenshots*
 
 
-###  *5. Test Summary Report*
+###  *5. 📊 Test Summary Report*
 - *Summary of Test Execution*
 - *Pass/Fail*
 
